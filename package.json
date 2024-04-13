@@ -1,0 +1,23 @@
+{
+    "name": "youtube_video_downloader",
+    "version": "1.0.0",
+    "description": "this app helps you to download youtube videos",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Victor John",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "connect-flash": "^0.1.1",
+        "ejs": "^3.1.9",
+        "exec": "^0.2.1",
+        "express": "^4.18.2",
+        "express-session": "^1.17.3",
+        "ytdl": "^1.4.1",
+        "ytdl-core": "^4.11.5"
+    }
+}
