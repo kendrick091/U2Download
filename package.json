@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "this app helps you to download youtube videos",
     "type": "module",
-    "enginers": {
+    "engines": {
         "node": "14.x"
     "main": "index.js",
     "scripts": {
