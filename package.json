@@ -3,6 +3,8 @@
     "version": "1.0.0",
     "description": "this app helps you to download youtube videos",
     "type": "module",
+    "enginers": {
+        "node": "14.x"
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
